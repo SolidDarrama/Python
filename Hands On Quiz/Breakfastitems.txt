@@ -1,0 +1,1 @@
+['eggs', 'bacon', 'jelly', 'coffee', 'orange juice', ' toast']
